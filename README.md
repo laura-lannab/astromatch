@@ -1,4 +1,4 @@
-<h2 align="center">:couplekiss: Astromatch: aplicativo de relacionamento mais popular da Labenu! :hearts:</h2>
+<h2 align="center">:couplekiss: Astromatch: aplicativo de relacionamento! :hearts:</h2>
 <h3 align="left">Descrição:</h3>
 <li align="left">Projeto que simula uma aplicação multiplataforma de localização de pessoas para serviços de relacionamentos online. </li>
 <li align="left"><b>Funcionalidades:</b> </li>
